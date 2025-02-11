@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+
+#game-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#gameCanvas{
+    background-color: rgb(89, 81, 136);
+    border:solid;
+    border-color:rgb(172, 5, 149);
+}
+
+#scoreCount{
+    text-align: center;
+    font-size: 3em;
+    color:yellow;
+}
